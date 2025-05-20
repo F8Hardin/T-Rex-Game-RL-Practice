@@ -1,0 +1,14 @@
+names:
+- Cactus-1pcs
+- Cactus-2pcs
+- Cactus-S-1pcs
+- Cactus-S-2pcs
+- Cactus-S-3pcs
+- Cactus-big
+- Living-Dino
+- Dino-player-dead
+- Dino-player-crouch
+- Flying-Dino
+nc: 10
+train: F:\Documents\GitHub\T-Rex Game RL\datasets/train/images
+val: F:\Documents\GitHub\T-Rex Game RL\datasets/valid/images
